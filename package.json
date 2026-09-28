@@ -1,0 +1,8 @@
+{
+  "name": "octopora-demo-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  }
+}
